@@ -91,6 +91,7 @@ class HomePage extends ConsumerWidget {
                 },
                 child: const Text('How to Play'),
               ),
+               const SizedBox(height: 10),
                ElevatedButton(
                 onPressed: () {
                   showCreditsDialog(context);

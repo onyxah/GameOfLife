@@ -55,6 +55,7 @@ The app also acknowledges [LifeWiki](https://www.conwaylife.com/wiki/) for valua
 
 ## Assets
  download apk for android [here](https://github.com/onyxah/GameOfLife/releases/download/1.0/app-release.apk)
+ Test it online [Game Of Life Online](https://game-of-life-261f2.web.app) still need to work on the responsiveness
 
 ### External Libraries
 
