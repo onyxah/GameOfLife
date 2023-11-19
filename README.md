@@ -53,6 +53,9 @@ The app also acknowledges [LifeWiki](https://www.conwaylife.com/wiki/) for valua
 * Pulsar Oscillator: Conway's Game of Life pattern.
 * 10-Engine Cordership: Conway's Game of Life pattern.
 
+## Assets
+ download apk for android [here](https://github.com/onyxah/GameOfLife/releases/download/1.0/app-release.apk)
+
 ### External Libraries
 
 - [Flutter](https://flutter.dev/)
