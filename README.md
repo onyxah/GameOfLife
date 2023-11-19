@@ -44,9 +44,9 @@ Launch the app and interact with the grid by tapping cells. Use the provided con
 For detailed instructions, refer to the in-app guide or visit [How to Play](https://playgameoflife.com/info) for more information.
 
 ## Credits
-Kudos to [Elias W. BA](https://twitter.com/eliaswalyba) for giving me the challenge on X great initiative by the way
-[OpenAI](https://www.openai.com/): For providing some fragments of the code and for debugging and refactoring and helping me writting this awesome README.
-The app also acknowledges [LifeWiki](https://www.conwaylife.com/wiki/) for valuable information and resources related to Conway's Game of Life.
+- Kudos to [Elias W. BA](https://twitter.com/eliaswalyba) for giving me the challenge on X great initiative by the way
+- [OpenAI](https://www.openai.com/): For providing some fragments of the code and for debugging and refactoring and helping me writting this awesome README.
+- The app also acknowledges [LifeWiki](https://www.conwaylife.com/wiki/) for valuable information and resources related to Conway's Game of Life.
 
 ## Patterns
 * Gosper Glider Gun: Conway's Game of Life pattern.
